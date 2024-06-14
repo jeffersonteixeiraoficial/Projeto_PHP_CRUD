@@ -16,11 +16,19 @@
       padding: 10px 0;
       text-align: center;
     }
+
+   nav a   {
+color: black;
+bottom: unset;
+
+     }
     nav a {
       color: #130101;
       text-decoration: none;
       margin: 0 10px;
     }
+
+    
     section {
       background-image: url('fotos/le02.jp');
       background-size: cover;
